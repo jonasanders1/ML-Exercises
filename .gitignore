@@ -50,14 +50,6 @@ coverage.xml
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Jupyter Notebook outputs
-*.ipynb
-*.csv
-*.tsv
-*.png
-*.svg
-*.jpeg
-*.pdf
 
 # VS Code
 .vscode/
